@@ -4,7 +4,7 @@ My name is Elton Marinho from Brazil🌊 (🇧🇷). I've been working as Softwa
 
 In my free time I like to go hiking (🌄), to play the guittar (🎸), and read books (📚).
 
-//[![Blog Badge](https://img.shields.io/badge/Blog-eltonmarinho.com-black)](https://medium.com/@eltonmarinho)
+[![Blog Badge](https://img.shields.io/badge/Blog-eltonmarinho.com-black),(https://medium.com/@eltonmarinho)]
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/FelipeFialhoDev)](https://www.youtube.com/channel/UCr0uMbiR30X3t0z1QEc74wA?view_as=subscriber)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/toncarv)](https://twitter.com/toncarv)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eltoncarv)](https://www.linkedin.com/in/eltoncarv/)

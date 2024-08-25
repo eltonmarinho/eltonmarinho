@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Elton Marinho from Brazil🌊 (🇧🇷). I've been working as Software Developer since 2020, I'm currently studing at [Rocketseat](https://rocketseat.com). I'm passionate about open source projects, so I've created some projects as [Particular](https://github.com/eltonmarinho)
+My name is Elton Marinho from Brazil🌊 (🇧🇷). I've been working as Software Developer since 2020, I'm currently studing at [Rocketseat](https://rocketseat.com).  some projects as [Particular](https://github.com/eltonmarinho)
 
 In my free time I like to go hiking (🌄), to play the guittar (🎸), and read books (📚).
 
